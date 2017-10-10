@@ -1,0 +1,7 @@
+c:\users\zhang\source\repos\AircraftsAssignment\AircraftsAssignment\obj\Debug\AircraftsAssignment.csprojResolveAssemblyReference.cache
+c:\users\zhang\source\repos\AircraftsAssignment\AircraftsAssignment\obj\Debug\AircraftsAssignment.csproj.CoreCompileInputs.cache
+c:\users\zhang\source\repos\AircraftsAssignment\AircraftsAssignment\bin\Debug\AircraftsAssignment.exe.config
+c:\users\zhang\source\repos\AircraftsAssignment\AircraftsAssignment\bin\Debug\AircraftsAssignment.exe
+c:\users\zhang\source\repos\AircraftsAssignment\AircraftsAssignment\bin\Debug\AircraftsAssignment.pdb
+c:\users\zhang\source\repos\AircraftsAssignment\AircraftsAssignment\obj\Debug\AircraftsAssignment.exe
+c:\users\zhang\source\repos\AircraftsAssignment\AircraftsAssignment\obj\Debug\AircraftsAssignment.pdb
